@@ -1,4 +1,4 @@
-package hello
+package go_api
 
 import "fmt"
 
